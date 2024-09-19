@@ -1,6 +1,4 @@
-### `Preview`
-you can find this in youtube link
-https://youtu.be/fx-z7MkJQG4?si=Q80Gotx_neFMOn72
+
 
 # Getting Started with Create React App
 
